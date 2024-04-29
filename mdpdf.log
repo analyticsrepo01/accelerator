@@ -1,0 +1,89 @@
+    INFO: 2024-04-23 08:13:57,170:               log.py:   20: Logging to /home/jupyter/GenAI5/Course/mdpdf.log
+   DEBUG: 2024-04-23 08:13:57,170:               cli.py:  103: story.md
+    INFO: 2024-04-23 08:13:57,171:         converter.py:   14: story.md
+   DEBUG: 2024-04-23 08:13:57,174:      pdf_renderer.py:  470: printSegment: The Adventures of Pip and Luna, the Curious Companions
+   DEBUG: 2024-04-23 08:13:57,178:      pdf_renderer.py:  470: printSegment: Chapter 1: A Curious Discovery
+   ERROR: 2024-04-23 08:13:57,180:      pdf_renderer.py:  217: /home/jupyter/GenAI5/Course/story.md:5: image1.jpg: No such file or directory
+   DEBUG: 2024-04-23 08:13:57,188:      pdf_renderer.py:  470: printSegment: High in the forest canopy, amidst the playful chatter of birds, Pip, the young squirrel with boundless curiosity,
+   DEBUG: 2024-04-23 08:13:57,189:      pdf_renderer.py:  470: printSegment: stumbled upon a hidden treasure. Tucked within an abandoned woodpecker
+   DEBUG: 2024-04-23 08:13:57,190:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,193:      pdf_renderer.py:  470: printSegment: s nest, lay an old map, its faded
+   DEBUG: 2024-04-23 08:13:57,194:      pdf_renderer.py:  470: printSegment: markings whispering of a faraway meadow brimming with exotic fruits. Pip
+   DEBUG: 2024-04-23 08:13:57,194:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,198:      pdf_renderer.py:  470: printSegment: s eyes lit up with excitement. He dreamt
+   DEBUG: 2024-04-23 08:13:57,199:      pdf_renderer.py:  470: printSegment: of juicy, unknown flavors, his adventurous spirit yearning to explore.
+   DEBUG: 2024-04-23 08:13:57,200:      pdf_renderer.py:  470: printSegment: Ever cautious, Luna, his wise owl companion, examined the map with concern. 
+   DEBUG: 2024-04-23 08:13:57,200:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-04-23 08:13:57,201:      pdf_renderer.py:  470: printSegment: There may be dangers lurking, Pip,
+   DEBUG: 2024-04-23 08:13:57,202:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-04-23 08:13:57,203:      pdf_renderer.py:  470: printSegment:  she warned, her voice laced with reason. But she couldn
+   DEBUG: 2024-04-23 08:13:57,203:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,204:      pdf_renderer.py:  470: printSegment: t deny the spark in Pip
+   DEBUG: 2024-04-23 08:13:57,204:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,211:      pdf_renderer.py:  470: printSegment: s eyes, a reflection of his longing
+   DEBUG: 2024-04-23 08:13:57,212:      pdf_renderer.py:  470: printSegment: for adventure. With a soft hoot, Luna agreed to accompany him, her wisdom a guiding light on their journey.
+   DEBUG: 2024-04-23 08:13:57,213:      pdf_renderer.py:  470: printSegment: Chapter 2: The Grumbling of Barley the Bear
+   ERROR: 2024-04-23 08:13:57,214:      pdf_renderer.py:  217: /home/jupyter/GenAI5/Course/story.md:14: image2.jpg: No such file or directory
+   DEBUG: 2024-04-23 08:13:57,243:      pdf_renderer.py:  470: printSegment: Their journey began with eager paws and flapping wings. As they ventured deeper into the forest, they stumbled
+   DEBUG: 2024-04-23 08:13:57,256:      pdf_renderer.py:  470: printSegment: upon Barley the Bear, grumbling and grumbling about a shortage of blueberries. His booming voice echoed through
+   DEBUG: 2024-04-23 08:13:57,258:      pdf_renderer.py:  470: printSegment: the trees, his furry form slumped in frustration. Pip and Luna, their hearts overflowing with kindness, decided to
+   DEBUG: 2024-04-23 08:13:57,259:      pdf_renderer.py:  470: printSegment: help.
+   DEBUG: 2024-04-23 08:13:57,259:      pdf_renderer.py:  470: printSegment: With Pip
+   DEBUG: 2024-04-23 08:13:57,260:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,261:      pdf_renderer.py:  470: printSegment: s nimble paws and Luna
+   DEBUG: 2024-04-23 08:13:57,261:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,262:      pdf_renderer.py:  470: printSegment: s keen eyesight, they quickly gathered a pile of plump blueberries, earning Barley
+   DEBUG: 2024-04-23 08:13:57,263:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,271:      pdf_renderer.py:  470: printSegment: s grateful smiles. The grumpy bear, his hunger satiated, joined their adventure, his laughter now echoing through the forest, a testament to the power of friendship.
+   DEBUG: 2024-04-23 08:13:57,272:      pdf_renderer.py:  470: printSegment: Chapter 3: The Riddle of Willow the Weasel
+   ERROR: 2024-04-23 08:13:57,272:      pdf_renderer.py:  217: /home/jupyter/GenAI5/Course/story.md:22: image3.jpg: No such file or directory
+   DEBUG: 2024-04-23 08:13:57,274:      pdf_renderer.py:  470: printSegment: Their path led them to Willow
+   DEBUG: 2024-04-23 08:13:57,275:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,278:      pdf_renderer.py:  470: printSegment: s Creek, the domain of the cunning yet helpful Willow the Weasel. To cross the
+   DEBUG: 2024-04-23 08:13:57,279:      pdf_renderer.py:  470: printSegment: bridge, they had to solve her riddle: 
+   DEBUG: 2024-04-23 08:13:57,280:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-04-23 08:13:57,282:      pdf_renderer.py:  470: printSegment: What has no voice but speaks volumes, no body but casts a shadow, and
+   DEBUG: 2024-04-23 08:13:57,282:      pdf_renderer.py:  470: printSegment: disappears with the dawn?
+   DEBUG: 2024-04-23 08:13:57,283:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-04-23 08:13:57,289:      pdf_renderer.py:  470: printSegment: Pip and Luna pondered. Pip, with his quick wit, noticed the sun setting, casting long shadows. Luna, with her vast
+   DEBUG: 2024-04-23 08:13:57,290:      pdf_renderer.py:  470: printSegment: knowledge, recalled hearing about the silent storyteller - the moon. 
+   DEBUG: 2024-04-23 08:13:57,291:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-04-23 08:13:57,291:      pdf_renderer.py:  470: printSegment: The moon
+   DEBUG: 2024-04-23 08:13:57,292:      pdf_renderer.py:  470: printSegment: !
+   DEBUG: 2024-04-23 08:13:57,292:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2024-04-23 08:13:57,293:      pdf_renderer.py:  470: printSegment:  they exclaimed in unison, Willow
+   DEBUG: 2024-04-23 08:13:57,294:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,294:      pdf_renderer.py:  470: printSegment: s
+   DEBUG: 2024-04-23 08:13:57,295:      pdf_renderer.py:  470: printSegment: eyes twinkling with amusement.
+   DEBUG: 2024-04-23 08:13:57,296:      pdf_renderer.py:  470: printSegment: Guided by Willow
+   DEBUG: 2024-04-23 08:13:57,296:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,297:      pdf_renderer.py:  470: printSegment: s map and newfound friendship, they bid farewell to the clever weasel and continued their quest.
+   DEBUG: 2024-04-23 08:13:57,298:      pdf_renderer.py:  470: printSegment: Chapter 4: The River Otter Adventure
+   ERROR: 2024-04-23 08:13:57,298:      pdf_renderer.py:  217: /home/jupyter/GenAI5/Course/story.md:32: image4.jpg: No such file or directory
+   DEBUG: 2024-04-23 08:13:57,329:      pdf_renderer.py:  470: printSegment: The journey took them to a fast-flowing river, a formidable obstacle in their path. Fortunately, they were met by the
+   DEBUG: 2024-04-23 08:13:57,340:      pdf_renderer.py:  470: printSegment: playful River Otter family, known for their expertise in navigating the waters. With joyous squeals and splashes, the
+   DEBUG: 2024-04-23 08:13:57,341:      pdf_renderer.py:  470: printSegment: otters guided Pip and Luna across the river, their expert strokes showcasing the power of teamwork and trust.
+   DEBUG: 2024-04-23 08:13:57,349:      pdf_renderer.py:  470: printSegment: The river otter adventure not only helped them reach their destination but also forged a new bond with the playful
+   DEBUG: 2024-04-23 08:13:57,350:      pdf_renderer.py:  470: printSegment: creatures. Pip and Luna learned the importance of cooperation and appreciation for nature
+   DEBUG: 2024-04-23 08:13:57,351:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,351:      pdf_renderer.py:  470: printSegment: s wonders.
+   DEBUG: 2024-04-23 08:13:57,352:      pdf_renderer.py:  470: printSegment: Chapter 5: The Fruitful Meadow and a Journey
+   DEBUG: 2024-04-23 08:13:57,353:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2024-04-23 08:13:57,354:      pdf_renderer.py:  470: printSegment: s End
+   ERROR: 2024-04-23 08:13:57,354:      pdf_renderer.py:  217: /home/jupyter/GenAI5/Course/story.md:40: image5.jpg: No such file or directory
+   DEBUG: 2024-04-23 08:13:57,365:      pdf_renderer.py:  470: printSegment: Finally, they reached the Meadow of Wonders. A breathtaking vista unfolded before them, filled with exotic fruits
+   DEBUG: 2024-04-23 08:13:57,367:      pdf_renderer.py:  470: printSegment: more dazzling than they could have imagined. Joyful squeals escaped their lips as they savored the sweet,从未尝过的flavors.
+   DEBUG: 2024-04-23 08:13:57,425:      pdf_renderer.py:  470: printSegment: Their hearts overflowing with gratitude, they shared their bounty with Barley, Willow, and the River Otter family,
+   DEBUG: 2024-04-23 08:13:57,428:      pdf_renderer.py:  470: printSegment: creating a joyous feast under the starry sky. Their laughter echoed through the meadow, a melody of friendship and
+   DEBUG: 2024-04-23 08:13:57,429:      pdf_renderer.py:  470: printSegment: the fulfillment of shared dreams.
+   DEBUG: 2024-04-23 08:13:57,449:      pdf_renderer.py:  470: printSegment: Pip and Luna returned from their journey with more than just delicious fruit. They carried valuable lessons about
+   DEBUG: 2024-04-23 08:13:57,456:      pdf_renderer.py:  470: printSegment: friendship, cooperation, and respect for nature. This adventure would forever be etched in their memories, inspiring
+   DEBUG: 2024-04-23 08:13:57,457:      pdf_renderer.py:  470: printSegment: them to continue exploring their world with curious and open hearts.
+   DEBUG: 2024-04-23 08:13:57,458:      pdf_renderer.py:   53: 0, [2, 'The Adventures of Pip and Luna, the Curious Companions', 1, 70.0]
+   ERROR: 2024-04-23 08:13:57,458:      pdf_renderer.py:   57: Bad heading level.  More information:
+Traceback (most recent call last):
+  File "/opt/conda/lib/python3.10/site-packages/mdpdf/pdf_renderer.py", line 55, in __del__
+    self.doc.set_toc(self.toc)
+  File "/home/jupyter/.local/lib/python3.10/site-packages/fitz/utils.py", line 1328, in set_toc
+    raise ValueError("hierarchy level of item 0 must be 1")
+ValueError: hierarchy level of item 0 must be 1
